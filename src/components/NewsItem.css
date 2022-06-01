@@ -1,0 +1,28 @@
+.newsItem{
+    border: 1px solid grey;
+    min-height: 300px;
+    width: 260px;
+    padding-bottom: 15px;
+}
+.photo{
+    height: 150px;
+    border: 1px solid grey; 
+}
+h2{
+    margin: .25rem;
+}
+p{
+    margin: .25rem;
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+.readMore{
+    margin: .25rem;
+    background-color: rgb(0, 17, 255);
+    padding: 6px 12px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+}
